@@ -1,4 +1,6 @@
 {
     "chat.unifiedChatView": true,
-    "chat.agent.enabled": true
+    "chat.agent.enabled": true,
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
 }

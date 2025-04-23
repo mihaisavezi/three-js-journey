@@ -1965,4 +1965,3 @@ function onWebsiteLoaded(event) {
 
 
 window.addEventListener('load', onWebsiteLoaded, false)
-Hyper Icon
